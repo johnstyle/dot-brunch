@@ -1,6 +1,6 @@
 {
   "name": "dot-brunch",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "doT brunch.",
   "author": "Jonathan SAHM",
   "homepage": "https://github.com/johnstyle/dot-brunch",
@@ -9,15 +9,7 @@
     "type": "git",
     "url": "git@github.com:johnstyle/dot-brunch.git"
   },
-  "scripts": {
-    "test": "node_modules/.bin/eslint index.js && node_modules/.bin/mocha"
-  },
   "dependencies": {
     "dot": "^1.0.3"
-  },
-  "devDependencies": {
-    "chai": "~3.4.1",
-    "eslint": "^1.10.3",
-    "mocha": "~2.3.4"
   }
 }
