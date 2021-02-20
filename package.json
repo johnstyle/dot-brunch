@@ -10,6 +10,6 @@
     "url": "git@github.com:johnstyle/dot-brunch.git"
   },
   "dependencies": {
-    "dot": "^1.0.3"
+    "dot": "^1.1.3"
   }
 }
